@@ -1,0 +1,2 @@
+Lada Priora: max 140 km/h; costs 14000 a. u.
+Lada Granta: max 200 km/h; costs 50000 a. u.

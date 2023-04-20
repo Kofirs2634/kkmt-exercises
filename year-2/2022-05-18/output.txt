@@ -1,0 +1,19 @@
+== INVALID TRIANGLES ==
+Invalid triangle: sides are 2, 3, 6 units; perimeter 11 units; area nan sq. units
+Invalid triangle: sides are 3, 7, 2 units; perimeter 12 units; area nan sq. units
+Invalid triangle: sides are 8, 2, 5 units; perimeter 15 units; area nan sq. units
+Invalid triangle: sides are 9, 3, 4 units; perimeter 16 units; area nan sq. units
+
+== EQUILATERAL TRIANGLES ==
+Equilateral triangle: sides are 5, 5, 5 units; perimeter 15 units; area 10.825318 sq. units
+
+== RIGHT TRIANGLES ==
+Right triangle: sides are 3, 4, 5 units; perimeter 12 units; area 6.000000 sq. units
+
+== ACUTE TRIANGLES ==
+Acute triangle: sides are 7, 5, 11 units; perimeter 23 units; area 12.968712 sq. units
+Acute triangle: sides are 4, 4, 6 units; perimeter 14 units; area 7.937254 sq. units
+Acute triangle: sides are 10, 8, 5 units; perimeter 23 units; area 19.810035 sq. units
+
+== OBTUSE TRIANGLES ==
+Obtuse triangle: sides are 6, 7, 4 units; perimeter 17 units; area 11.976540 sq. units
